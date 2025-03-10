@@ -10,3 +10,10 @@
   "email": "user@example.com",
   "password": "password123"
 }
+
+- **응답 예시**
+```json
+{
+  "token": "eyJhbGciOi..."
+}
+```
