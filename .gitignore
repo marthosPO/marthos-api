@@ -169,3 +169,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Node.js
+node_modules/
+package-lock.json
+
+# IDE / OS 관련
+.DS_Store
+.idea/
+.vscode/
