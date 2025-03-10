@@ -1,0 +1,12 @@
+{
+  "name": "marthos-api",
+  "version": "1.0.0",
+  "description": "MARTHOS API Backend",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  }
+}
